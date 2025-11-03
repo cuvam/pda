@@ -12,4 +12,4 @@
 
 A grep-like tool which takes in a basic RegEx pattern and a filename and displays all matches to that pattern inside the file.
 
-About 500 LOC, works in most cases and performs within about 2x grep's runtime.
+About 600 LOC, works in most cases and performs within about 2-3x grep's runtime.
